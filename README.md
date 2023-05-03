@@ -11,7 +11,7 @@ This repo is continuation of [mhah-panchang](https://www.npmjs.com/package/mhah-
 Via npm:
 
 ```bash
-npm install --save mhah-panchang
+npm i https://github.com/degroundshaker/panchang
 ```
 
 ### Usage 🔌
