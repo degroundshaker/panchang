@@ -2,10 +2,11 @@
 
 Its a cool package build to calculate Tithi (Moon), Nakshatra, Karna, Yoga, Raasi (Zodic Sign) and Ayanamsa. It can also be use to predict Masa(Hindu month) and Ritu (season).
 
-![Build Status](https://github.com/omkarpattanaik/mhah-panchanga/actions/workflows/main.yml/badge.svg)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
 [![NPM](https://nodei.co/npm/mhah-panchang.png?compact=true)](https://nodei.co/npm/mhah-panchang/)
+
+### Note
+
+This repo is continuation of [mhah-panchang](https://www.npmjs.com/package/mhah-panchang)
 
 ### Installation 🧱
 
